@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hjkhkkhkhj-dev
+  labels:
+    environment-id: env_f3349659-b302-47b4-b932-d308327fd973
+    project-id: project_cff25edf-68d2-4c41-b2df-fdb9f782be9e
+    project-name: hjkhkkhkhj
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
